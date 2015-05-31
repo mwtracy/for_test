@@ -3,6 +3,8 @@
 int
 main()
 {
-    std::cout << "hello" << std::endl;
+	cin>>name;
+
+    std::cout << "hello" << name <<std::endl;
     return 0;
 }
